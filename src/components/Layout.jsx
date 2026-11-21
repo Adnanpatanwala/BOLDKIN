@@ -39,7 +39,7 @@ export default function Layout() {
 
       <header className="wrap nav">
         <Link to="/" aria-label={`${site.name} home`} className="nav-logo">
-          <img src="/boldkin-logo.svg" alt={site.name} />
+          <img src="boldkin-logo.svg" alt={site.name} />
         </Link>
         <nav id="primary-nav" className={`navlinks ${open ? 'open' : ''}`} aria-label="Primary">
           {site.nav.map((n) => (
