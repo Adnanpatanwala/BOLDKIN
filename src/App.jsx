@@ -17,6 +17,7 @@ export default function App() {
         <Route path="product/:slug" element={<ProductPage />} />
         <Route path="about" element={<About />} />
         <Route path="support" element={<Support />} />
+        
         <Route path="*" element={<NotFound />} />
       </Route>
     </Routes>
