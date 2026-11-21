@@ -25,7 +25,7 @@ export const products = [
 
     // Photos: add URLs or files from /public, in the order of `views`.
     // Leave empty to show an illustration placeholder.
-    images: ["/photos/hero.jpg", "/photos/back.jpg", "/photos/results.jpg", "/photos/modes.jpg", "/photos/all.jpg"],
+    images: ["photos/hero.jpg", "photos/back.jpg", "photos/results.jpg", "photos/modes.jpg", "photos/all.jpg"],
     views: ['Front', 'Back', 'Detail', 'In use','all'],
     placeholder: 'cap', // 'cap' or 'pack'
     placeholderLabel: 'BOLDKIN',
