@@ -9,9 +9,9 @@
 
 export const products = [
   {
-    slug: 'led-light-therapy-cap',
-    name: 'LED Light Therapy Cap',
-    category: 'LED light therapy',
+    slug: 'red-light-therapy-cap',
+    name: 'Red Light Therapy Cap',
+    category: 'RED light therapy',
     tagline: '70 LEDs. Red and blue light. No cables.',
     heroText: 'Hands-free scalp care at home, ordered on Amazon in a few taps.',
     short: '70 LEDs. 630nm red and 470nm blue light. Hands-free, cordless and 180g.',
